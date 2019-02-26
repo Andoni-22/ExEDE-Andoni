@@ -27,6 +27,11 @@ import org.neodatis.odb.impl.core.query.values.ValuesCriteriaQuery;
 
 import javax.swing.border.CompoundBorder;
 
+/**
+ * *
+ *<h2>Esta clase se encarga del mantenimiento de los datos de los empleados ydepartamento, se realizan altas, bajas, modificaciones y consultas  </h2>
+ *
+ */
 @SuppressWarnings("serial")
 public class Consultas extends JDialog implements ActionListener  {
 
